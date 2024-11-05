@@ -1,0 +1,72 @@
+[
+    {
+        "car_id": "C001",
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2021,
+        "price": 24000
+    },
+    {
+        "car_id": "C002",
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2020,
+        "price": 20000
+    },
+    {
+        "car_id": "C003",
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2019,
+        "price": 27000
+    },
+    {
+        "car_id": "C004",
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year": 2022,
+        "price": 25000
+    },
+    {
+        "car_id": "C005",
+        "make": "BMW",
+        "model": "X5",
+        "year": 2023,
+        "price": 57000
+    },
+    {
+        "car_id": "C006",
+        "make": "Audi",
+        "model": "A4",
+        "year": 2021,
+        "price": 42000
+    },
+    {
+        "car_id": "C007",
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2020,
+        "price": 23000
+    },
+    {
+        "car_id": "C008",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "year": 2022,
+        "price": 21000
+    },
+    {
+        "car_id": "C009",
+        "make": "Kia",
+        "model": "Sorento",
+        "year": 2019,
+        "price": 31000
+    },
+    {
+        "car_id": "C010",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "year": 2021,
+        "price": 45000
+    }
+]
